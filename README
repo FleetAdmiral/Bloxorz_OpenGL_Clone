@@ -1,0 +1,12 @@
+Extra features:
+1) Multisampling/MSAA/Anti aliasing
+2) Sound (will compile and work only on linux) - when you move the box and when
+the game starts.
+Usage:
+1) Use arrow keys to move about in every view.
+2) Change the view type by pressing 'x' (toggle through them).
+3) The 2 blue bricks are the switches, press the blue switch near the big 'island'
+of tiles (that also has the goal hole) to open the bridge and press the other
+one to close it.
+Notes:
+1) Bricks are not assumed to fall if only one face is without support.
